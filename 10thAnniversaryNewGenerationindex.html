@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>10th Anniversary Invitation</title>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+        .header-img {
+            width: 100%;
+            height: auto;
+        }
+        .content {
+            padding: 30px;
+            background: white;
+            margin: 30px auto;
+            max-width: 800px;
+            border-radius: 12px;
+            box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+        }
+        .footer {
+            margin-top: 30px;
+            padding: 20px;
+            background: #222;
+            color: white;
+            font-size: 14px;
+        }
+        .footer img {
+            width: 100%;
+            max-width: 600px;
+            height: auto;
+        }
+        .cta-button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 12px 24px;
+            background: #ffcc00;
+            color: #222;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 8px;
+            transition: 0.3s;
+        }
+        .cta-button:hover {
+            background: #e6b800;
+        }
+        .cta-button:active {
+            transform: scale(0.95);
+        }
+        .confirmation-message {
+            display: none;
+            margin-top: 20px;
+            font-size: 18px;
+            color: green;
+            font-weight: bold;
+        }
+    </style>
+    <script>
+        function confirmAttendance() {
+            document.getElementById('confirmation-message').style.display = 'block';
+        }
+    </script>
+</head>
+<body>
+    <img src="Black and White Minimalist Ticket Music Party.png" alt="Anniversary Header" class="header-img">
+    <div class="content">
+        <h1>You're Invited!</h1>
+        <h2>New Generation: Arise & Shine</h2>
+        <p>Join us for the 10th Anniversary Celebration of Sunrise Apostolic Centre.</p>
+        <p><strong>Date:</strong> April 25, 2025 | <strong>Time:</strong> 1:00 PM</p>
+        <p><strong>Location:</strong> Knights of Columbus, Gapan City</p>
+        <p>We are honored to have Senior Pastor Rev. Gary Shek and Pastor Boaz Chung with us.</p>
+        <p>Come and celebrate God's abundant grace!</p>
+        <a href="#" class="cta-button" onclick="confirmAttendance()">Confirm Attendance</a>
+        <p id="confirmation-message" class="confirmation-message">Thank you for confirming your attendance! See you there!</p>
+    </div>
+    <div class="footer">
+        <img src="Screenshot 2025-03-03 141006.png" alt="Church Information Footer">
+    </div>
+</body>
+</html>
