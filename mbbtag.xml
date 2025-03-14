@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bible version="MBBTAG">
+    <Book name="Genesis" number="1">
+        <Chapter number="1">
+            <Verse number="1">Nang pasimula ay nilikha ng Diyos ang langit at ang lupa.</Verse>
+            <Verse number="2">Ang lupa ay walang anyo at walang laman, at ang kadiliman ay nasa ibabaw ng kalaliman; at ang Espiritu ng Diyos ay kumikilos sa ibabaw ng tubig.</Verse>
+            <Verse number="3">At sinabi ng Diyos, "Magkaroon ng liwanag," at nagkaroon ng liwanag.</Verse>
+            <Verse number="4">Nakita ng Diyos na mabuti ang liwanag, at inihiwalay niya ito sa kadiliman.</Verse>
+            <Verse number="5">Tinawag ng Diyos ang liwanag na Araw, at ang kadiliman ay tinawag niyang Gabi. Lumipas ang gabi at sumapit ang umaga—iyon ang unang araw.</Verse>
+        </Chapter>
+        <Chapter number="2">
+            <Verse number="1">Kaya't natapos ang langit at ang lupa, at ang lahat ng bagay na naroroon.</Verse>
+            <Verse number="2">Sa ikapitong araw, natapos ng Diyos ang kanyang gawain at nagpahinga siya sa araw na iyon.</Verse>
+        </Chapter>
+    </Book>
+    <Book name="Exodo" number="2">
+        <Chapter number="1">
+            <Verse number="1">Ito ang mga pangalan ng mga anak ni Israel na dumating sa Egipto kasama ni Jacob, bawat isa ay kasama ang kanilang pamilya.</Verse>
+            <Verse number="2">Si Ruben, Simeon, Levi, at Juda.</Verse>
+            <Verse number="3">Si Isacar, Zebulun, at Benjamin.</Verse>
+            <Verse number="4">Si Dan at Neftali, si Gad at Aser.</Verse>
+        </Chapter>
+        <Chapter number="2">
+            <Verse number="1">Isang lalaki mula sa angkan ni Levi ang nagpakasal sa isang babaeng Levita.</Verse>
+            <Verse number="2">Nagdalang-tao ang babae at nagsilang ng isang sanggol na lalaki. Nakita niyang napakagandang bata ito kaya itinago niya ito sa loob ng tatlong buwan.</Verse>
+        </Chapter>
+    </Book>
+    <Book name="Mateo" number="40">
+        <Chapter number="1">
+            <Verse number="1">Ito ang talaan ng mga ninuno ni Jesu-Cristo, na anak ni David, na anak ni Abraham.</Verse>
+            <Verse number="2">Si Abraham ang ama ni Isaac, si Isaac ang ama ni Jacob, at si Jacob ang ama ni Juda at ng kanyang mga kapatid.</Verse>
+            <Verse number="3">Si Juda ang ama ni Perez at Zera, na anak ni Tamar. Si Perez ang ama ni Hezron, at si Hezron ang ama ni Aram.</Verse>
+        </Chapter>
+        <Chapter number="2">
+            <Verse number="1">Noong panahon ng hari Herodes, ipinanganak si Jesus sa Bethlehem ng Judea.</Verse>
+            <Verse number="2">Dumating sa Jerusalem ang ilang pantas mula sa silangan at nagtanong, "Nasaan ang ipinanganak na Hari ng mga Judio? Nakita namin ang kanyang bituin sa silangan at naparito kami upang siya’y sambahin."</Verse>
+        </Chapter>
+    </Book>
+    <Book name="Juan" number="43">
+        <Chapter number="1">
+            <Verse number="1">Nang pasimula, naroon na ang Salita, at ang Salita ay kasama ng Diyos, at ang Salita ay Diyos.</Verse>
+            <Verse number="2">Nang pasimula, kasama na siya ng Diyos.</Verse>
+            <Verse number="3">Sa pamamagitan niya nilikha ang lahat ng bagay; at walang anumang nalikha nang hindi sa pamamagitan niya.</Verse>
+            <Verse number="4">Sa kanya naroon ang buhay, at ang buhay ay siyang ilaw ng sangkatauhan.</Verse>
+        </Chapter>
+        <Chapter number="2">
+            <Verse number="1">Sa ikatlong araw, nagkaroon ng kasalan sa Cana ng Galilea. Naroon ang ina ni Jesus.</Verse>
+            <Verse number="2">Inanyayahan din si Jesus at ang kanyang mga alagad sa kasalan.</Verse>
+        </Chapter>
+    </Book>
+    <Book name="Pahayag" number="66">
+        <Chapter number="1">
+            <Verse number="1">Ito ang pahayag ni Jesu-Cristo na ibinigay sa kanya ng Diyos.</Verse>
+            <Verse number="2">Ipinahayag niya ito sa pamamagitan ng kanyang anghel kay Juan na kanyang lingkod.</Verse>
+            <Verse number="3">Pinagpala ang bumabasa at ang nakikinig sa mga salitang ito at tumutupad sa nakasulat dito, sapagkat malapit na ang panahon.</Verse>
+        </Chapter>
+        <Chapter number="2">
+            <Verse number="1">Ito ang sinasabi ng nagsasanggalang sa pitong bituin sa kanyang kanang kamay.</Verse>
+            <Verse number="2">Alam ko ang iyong mga gawa, ang iyong pagpapagal at pagtitiis. Hindi mo matitiis ang masasamang tao.</Verse>
+        </Chapter>
+    </Book>
+</Bible>
