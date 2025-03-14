@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>10th Anniversary Invitation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>You're Invited!</h1>
+    <h2>New Generation: Arise & Shine</h2>
+    <p>Join us for the 10th Anniversary Celebration of Sunrise Apostolic Centre.</p>
+    <p><strong>Date:</strong> April 25, 2025 | <strong>Time:</strong> 1:00 PM</p>
+    <p><strong>Location:</strong> Knights of Columbus, Gapan City</p>
+    <img src="invitation1.jpg" alt="Anniversary Poster">
+    <img src="invitation2.jpg" alt="Invitation Letter">
+    <p>We are honored to have Senior Pastor Rev. Gary Shek and Pastor Boaz Chung with us.</p>
+    <p>Come and celebrate God's abundant grace!</p>
+</body>
+</html>
